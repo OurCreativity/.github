@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/OurCreativity/.github/main/profile/logo.png" alt="OurCreativity Logo" width="200"/>
+<img src="https://raw.githubusercontent.com/OurCreativity/.github/main/logo-oc-coding.jpg" alt="OurCreativity Logo" width="200"/>
 
 # OurCreativity
 
