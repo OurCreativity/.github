@@ -94,7 +94,7 @@ See `CONTRIBUTING.md` in each repository for detailed guidelines.
 | Coding Division | [@oc.edisicoding](https://www.instagram.com/oc.edisicoding) |
 | GitHub | [OurCreativity](https://github.com/OurCreativity) |
 
-**Requirements:** Age 13+ (16+ EU), parental consent if under 18
+**Requirements:** just be you.
 
 ---
 
